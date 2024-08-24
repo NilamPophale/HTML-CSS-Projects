@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    color: blue;
+    text-align: center;
+    font-family: "Kalam", cursive;
+}
+
+#hero{
+    background-image: url('images/flag.gif');
+    background-size: cover;
+    padding: 5px 0 40px 0;
+    justify-content: center;
+    text-align: center;
+}
+
+#logo{
+    width: 100px;
+}
+
+#title{
+    text-shadow: 0px 0px 4px black;
+}
+
+.btn{
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: "Kalam", cursive;
+    color: blue;
+    font-weight: 800;
+}
+
+.underline{
+    border-bottom: 4px solid white;
+}
+
